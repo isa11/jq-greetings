@@ -1,0 +1,23 @@
+{
+  "name": "jq-greetings",
+  "version": "1.0.0",
+  "description": "Récuperez les valeurs des champs du formulaire et en faire un joli objet qui sera affiché dans la console.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isa11/jq-greetings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isa11/jq-greetings/issues"
+  },
+  "homepage": "https://github.com/isa11/jq-greetings#readme",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}
